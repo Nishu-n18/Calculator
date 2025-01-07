@@ -4,7 +4,6 @@ public class calculator {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
 
-        // Display menu
         System.out.println("Welcome to the Calculator Program!");
         System.out.println("Select an operation to perform:");
         System.out.println("1. Addition (+)");
